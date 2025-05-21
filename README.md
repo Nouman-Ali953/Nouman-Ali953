@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm Nauman Mukhtar! 😃
+# I'm Usman Munawar! 😃
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer dedicated to creating innovative, scalable, and user-friendly web applications, saas base products, and tools. My work revolves around building clean, efficient code and bringing creative ideas to life.
 
